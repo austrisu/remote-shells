@@ -170,4 +170,6 @@ This works for static binaries.
 -   https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 -   configureing rpi if want to test on it https://0x434b.dev/misc-study-notes-about-arm-aarch64-assembly-and-the-arm-trusted-execution-environment-tee/
 -   aarch64 shellcode example: https://packetstormsecurity.com/files/153464/Linux-ARM64-Reverse-TCP-Shell-Null-Free-Shellcode.html
--
+-   Guide into aarch64 https://modexp.wordpress.com/2018/10/30/arm64-assembly/
+-   MacOS example: https://github.com/daem0nc0re/macOS_ARM64_Shellcode
+-   Shellcode example: https://modexp.wordpress.com/2017/09/11/shellcode-linux-aarch64/
